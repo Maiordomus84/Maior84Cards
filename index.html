@@ -1,0 +1,40 @@
+
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <title>Maior84Cards</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Galerie karet – Maior84Cards</h1>
+
+    <div id="filters">
+        <input type="text" id="playerFilter" placeholder="Hráč...">
+        <input type="text" id="teamFilter" placeholder="Tým...">
+        <input type="text" id="seriesFilter" placeholder="Série...">
+        <input type="text" id="sportFilter" placeholder="Sport...">
+        <select id="rookieFilter">
+            <option value="">Rookie?</option>
+            <option value="Ano">Ano</option>
+            <option value="Ne">Ne</option>
+        </select>
+        <select id="autoFilter">
+            <option value="">Podpis?</option>
+            <option value="Ano">Ano</option>
+            <option value="Ne">Ne</option>
+        </select>
+        <select id="memFilter">
+            <option value="">Memorabilia?</option>
+            <option value="Ano">Ano</option>
+            <option value="Ne">Ne</option>
+        </select>
+        <button onclick="applyFilters()">Filtrovat</button>
+    </div>
+
+    <div id="gallery"></div>
+
+    <script src="cards_data.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
