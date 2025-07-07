@@ -3,7 +3,7 @@
 <html lang="cs">
 <head>
     <meta charset="UTF-8">
-    <title>Maior84Cards</title>
+    <title>Galerie karet – Maior84Cards</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -17,18 +17,17 @@
         <select id="rookieFilter">
             <option value="">Rookie?</option>
             <option value="Ano">Ano</option>
-            <option value="Ne">Ne</option>
         </select>
         <select id="autoFilter">
             <option value="">Podpis?</option>
             <option value="Ano">Ano</option>
-            <option value="Ne">Ne</option>
         </select>
         <select id="memFilter">
             <option value="">Memorabilia?</option>
             <option value="Ano">Ano</option>
-            <option value="Ne">Ne</option>
         </select>
+        <input type="number" id="idFrom" placeholder="ID od" min="1" style="width: 80px;">
+        <input type="number" id="idTo" placeholder="ID do" min="1" style="width: 80px;">
         <button onclick="applyFilters()">Filtrovat</button>
     </div>
 
