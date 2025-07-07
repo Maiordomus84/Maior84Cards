@@ -3804,7 +3804,7 @@ const cards = [
     "Série": "Topps Formula 1",
     "Číslo karty": "#163",
     "Typ": "Insert",
-    "Sport": "NASCAR",
+    "Sport": "F1",
     "Poznámka": "F1 World Champion 2021, home win"
   },
   {
@@ -3815,7 +3815,7 @@ const cards = [
     "Série": "Topps Formula 1",
     "Číslo karty": "#51",
     "Typ": "Base",
-    "Sport": "NASCAR",
+    "Sport": "F1",
     "Poznámka": NaN
   },
   {
@@ -3826,7 +3826,7 @@ const cards = [
     "Série": "Topps Formula 1",
     "Číslo karty": "#151",
     "Typ": "Insert",
-    "Sport": "NASCAR",
+    "Sport": "F1",
     "Poznámka": "7× F1 World Champion"
   },
   {
@@ -3837,7 +3837,7 @@ const cards = [
     "Série": "Topps Formula 1",
     "Číslo karty": "#41",
     "Typ": "Base",
-    "Sport": "NASCAR",
+    "Sport": "F1",
     "Poznámka": NaN
   },
   {
@@ -3848,7 +3848,7 @@ const cards = [
     "Série": "Topps Formula 2",
     "Číslo karty": "#148",
     "Typ": "Rookie",
-    "Sport": "NASCAR",
+    "Sport": "F2",
     "Poznámka": "První turecký jezdec ve F2",
     "Rookie": "Ano"
   },
@@ -3860,7 +3860,7 @@ const cards = [
     "Série": "Topps Flash of Brilliance",
     "Číslo karty": "FOB-MS",
     "Typ": "Insert",
-    "Sport": "NASCAR",
+    "Sport": "F1",
     "Poznámka": "Syn Michaela Schumachera, F2 champion"
   },
   {
@@ -3871,7 +3871,7 @@ const cards = [
     "Série": "Topps Formula 1",
     "Číslo karty": "#63",
     "Typ": "Base",
-    "Sport": "NASCAR",
+    "Sport": "F1",
     "Poznámka": "Nejmenší jezdec F1 (157 cm)"
   },
   {
@@ -3882,7 +3882,7 @@ const cards = [
     "Série": "Topps Formula 1",
     "Číslo karty": "#74",
     "Typ": "Base",
-    "Sport": "NASCAR",
+    "Sport": "F1",
     "Poznámka": NaN
   },
   {
@@ -4675,5 +4675,261 @@ const cards = [
     "Typ": "Base",
     "Sport": "Hokej",
     "Poznámka": "Známý expert stanice Sportsnet. Hrál Stanley Cup finále 1993 (Kings vs Canadiens)."
+  },
+  {
+    "ID": 416,
+    "Jméno hráče": "Brad Keselowski",
+    "Hráčův tým": "RFK Racing",
+    "Ročník": "2023",
+    "Série": "Panini Donruss Racing",
+    "Číslo karty": "No. 65",
+    "Typ": "Base",
+    "Sport": "NASCAR",
+    "Poznámka": "NASCAR Cup Series Champion, spolumajitel RFK Racing"
+  },
+  {
+    "ID": 417,
+    "Jméno hráče": "Kyle Weatherman",
+    "Hráčův tým": "DGM Racing",
+    "Ročník": "2023",
+    "Série": "Panini Donruss Racing",
+    "Číslo karty": "No. 106",
+    "Typ": "Base",
+    "Sport": "NASCAR",
+    "Poznámka": NaN
+  },
+  {
+    "ID": 418,
+    "Jméno hráče": "Justin Haley",
+    "Hráčův tým": "Kaulig Racing",
+    "Ročník": "2023",
+    "Série": "Panini Donruss Racing",
+    "Číslo karty": "No. 62",
+    "Typ": "Base",
+    "Sport": "NASCAR",
+    "Poznámka": "3. místo v Darlingtonu a Texasu (2022)"
+  },
+  {
+    "ID": 419,
+    "Jméno hráče": "Jordan Harris",
+    "Hráčův tým": "Columbus Blue Jackets",
+    "Ročník": "2024-25",
+    "Série": "Upper Deck Extended Series",
+    "Číslo karty": "540",
+    "Typ": "Base",
+    "Sport": "Hokej",
+    "Poznámka": NaN
+  },
+  {
+    "ID": 420,
+    "Jméno hráče": "Sebastian Aho",
+    "Hráčův tým": "Carolina Hurricanes",
+    "Ročník": "2024-25",
+    "Série": "Upper Deck Extended Series",
+    "Číslo karty": "680",
+    "Typ": "All-Star",
+    "Sport": "Hokej",
+    "Poznámka": "All-Star, hvězda Caroliny, 557 bodů v NHL"
+  },
+  {
+    "ID": 421,
+    "Jméno hráče": "James van Riemsdyk",
+    "Hráčův tým": "Columbus Blue Jackets",
+    "Ročník": "2024-25",
+    "Série": "Upper Deck Extended Series",
+    "Číslo karty": "536",
+    "Typ": "Base",
+    "Sport": "Hokej",
+    "Poznámka": "1000+ zápasů v NHL, debut za Columbus v říjnu 2024"
+  },
+  {
+    "ID": 422,
+    "Jméno hráče": "Cam Talbot",
+    "Hráčův tým": "Detroit Red Wings",
+    "Ročník": "2024-25",
+    "Série": "Upper Deck Extended Series",
+    "Číslo karty": "548",
+    "Typ": "Base",
+    "Sport": "Hokej",
+    "Poznámka": "Shutout proti Nashville (42 zákroků)"
+  },
+  {
+    "ID": 423,
+    "Jméno hráče": "Filip Forsberg",
+    "Hráčův tým": "Nashville Predators",
+    "Ročník": "2024-25",
+    "Série": "Upper Deck Extended Series",
+    "Číslo karty": "666",
+    "Typ": "All-Star",
+    "Sport": "Hokej",
+    "Poznámka": "600+ bodů v NHL, vícebodový zápas 10. října 2024"
+  },
+  {
+    "ID": 424,
+    "Jméno hráče": "Josh Doan",
+    "Hráčův tým": "Utah Hockey Club",
+    "Ročník": "2024-25",
+    "Série": "Upper Deck Extended Series",
+    "Číslo karty": "RR-6",
+    "Typ": "Rookie Insert",
+    "Sport": "Hokej",
+    "Poznámka": "Syn Shana Doana, debut v NHL 2024",
+    "Rookie": "Ano"
+  },
+  {
+    "ID": 425,
+    "Jméno hráče": "Brett Berard",
+    "Hráčův tým": "New York Rangers",
+    "Ročník": "2024-25",
+    "Série": "Upper Deck Extended Series",
+    "Číslo karty": "705",
+    "Typ": "Rookie",
+    "Sport": "Hokej",
+    "Poznámka": "První gól NHL 2024, Young Guns karta",
+    "Rookie": "Ano"
+  },
+  {
+    "ID": 426,
+    "Jméno hráče": "Jake DeBrusk",
+    "Hráčův tým": "Vancouver Canucks",
+    "Ročník": "2024-25",
+    "Série": "Upper Deck Extended Series",
+    "Číslo karty": "C291",
+    "Typ": "Insert",
+    "Sport": "Hokej",
+    "Poznámka": "UD Canvas karta"
+  },
+  {
+    "ID": 427,
+    "Jméno hráče": "Ryan Lomberg",
+    "Hráčův tým": "Calgary Flames",
+    "Ročník": "2024-25",
+    "Série": "Upper Deck Extended Series",
+    "Číslo karty": "519",
+    "Typ": "Base",
+    "Sport": "Hokej",
+    "Poznámka": NaN
+  },
+  {
+    "ID": 428,
+    "Jméno hráče": "Alexander Romanov",
+    "Hráčův tým": "New York Islanders",
+    "Ročník": "2024-25",
+    "Série": "Upper Deck Extended Series",
+    "Číslo karty": "583",
+    "Typ": "Base",
+    "Sport": "Hokej",
+    "Poznámka": NaN
+  },
+  {
+    "ID": 429,
+    "Jméno hráče": "Connor McDavid",
+    "Hráčův tým": "Edmonton Oilers",
+    "Ročník": "2024-25",
+    "Série": "Upper Deck Extended Series",
+    "Číslo karty": "667",
+    "Typ": "All-Star",
+    "Sport": "Hokej",
+    "Poznámka": "7x NHL All-Star, jeden z nejlepších hráčů světa"
+  },
+  {
+    "ID": 430,
+    "Jméno hráče": "Jonatan Berggren",
+    "Hráčův tým": "Detroit Red Wings",
+    "Ročník": "2024-25",
+    "Série": "Upper Deck Extended Series",
+    "Číslo karty": "549",
+    "Typ": "Base",
+    "Sport": "Hokej",
+    "Poznámka": NaN
+  },
+  {
+    "ID": 431,
+    "Jméno hráče": "Josh Morrissey",
+    "Hráčův tým": "Winnipeg Jets",
+    "Ročník": "2024-25",
+    "Série": "Parkhurst Champions",
+    "Číslo karty": "134",
+    "Typ": "Insert",
+    "Sport": "Hokej",
+    "Poznámka": NaN
+  },
+  {
+    "ID": 432,
+    "Jméno hráče": "Joel Eriksson Ek",
+    "Hráčův tým": "Minnesota Wild",
+    "Ročník": "2024-25",
+    "Série": "Parkhurst Champions",
+    "Číslo karty": "124",
+    "Typ": "Insert",
+    "Sport": "Hokej",
+    "Poznámka": NaN
+  },
+  {
+    "ID": 433,
+    "Jméno hráče": "Mark Scheifele",
+    "Hráčův tým": "Winnipeg Jets",
+    "Ročník": "2024-25",
+    "Série": "Parkhurst Champions",
+    "Číslo karty": "183",
+    "Typ": "Insert",
+    "Sport": "Hokej",
+    "Poznámka": NaN
+  },
+  {
+    "ID": 434,
+    "Jméno hráče": "Thomas Harley",
+    "Hráčův tým": "Dallas Stars",
+    "Ročník": "2024-25",
+    "Série": "Parkhurst Champions",
+    "Číslo karty": "83",
+    "Typ": "Insert",
+    "Sport": "Hokej",
+    "Poznámka": "Sdílel ligové vedení v počtu vítězných gólů v prodloužení"
+  },
+  {
+    "ID": 435,
+    "Jméno hráče": "Marat Khusnutdinov",
+    "Hráčův tým": "Minnesota Wild",
+    "Ročník": "2024-25",
+    "Série": "Parkhurst Champions",
+    "Číslo karty": "253",
+    "Typ": "Rookie",
+    "Sport": "Hokej",
+    "Poznámka": "Rookie sezóna, debut v NHL březen 2024",
+    "Rookie": "Ano"
+  },
+  {
+    "ID": 436,
+    "Jméno hráče": "Trent Frederic",
+    "Hráčův tým": "Boston Bruins",
+    "Ročník": "2024-25",
+    "Série": "Parkhurst Champions",
+    "Číslo karty": "92",
+    "Typ": "Insert",
+    "Sport": "Hokej",
+    "Poznámka": NaN
+  },
+  {
+    "ID": 437,
+    "Jméno hráče": "Alex Tuch",
+    "Hráčův tým": "Buffalo Sabres",
+    "Ročník": "2024-25",
+    "Série": "Parkhurst Champions",
+    "Číslo karty": "46",
+    "Typ": "Insert",
+    "Sport": "Hokej",
+    "Poznámka": NaN
+  },
+  {
+    "ID": 438,
+    "Jméno hráče": "Vince Dunn",
+    "Hráčův tým": "Seattle Kraken",
+    "Ročník": "2024-25",
+    "Série": "Parkhurst Champions",
+    "Číslo karty": "38",
+    "Typ": "Insert",
+    "Sport": "Hokej",
+    "Poznámka": "Třetí nejvíce bodů v přesilovkách v týmu Kraken (2023-24)"
   }
 ];
