@@ -57,21 +57,11 @@ function applyFilters() {
         }
 
         div.innerHTML = `
-            <img src="images/${String(card['ID']).padStart(6, '0')}_front_back.jpg" onclick="openImagePopup(this.src)">
+            <img src="images/${String(card['ID']).padStart(6, '0')}_front_back.jpg" onclick="window.open(this.src)">
             <div class="card-info">${info}</div>
         `;
         gallery.appendChild(div);
     });
-}
-
-function openImagePopup(src) {
-    const newWindow = window.open("", "_blank", "width=820,height=900");
-    newWindow.document.write(\`
-        <html><head><title>Náhled karty</title></head>
-        <body style="margin:0;text-align:center;background:#222;">
-        <img src="\${src}" style="max-width:800px;width:100%;height:auto;margin:20px auto;display:block;border-radius:8px;">
-        </body></html>
-    \`);
 }
 
 document.addEventListener('DOMContentLoaded', applyFilters);
